@@ -1,0 +1,8 @@
+CDStream 
+
+This is my stream object I use typically for solving problems in objective-c for
+reddit.com/r/daily_programmer
+
+This object can read lines of input from standard input and parse it up for use in challenges.
+I found I was always using this kind of code for challenges and so made a standard object for me to re-use alot. I will add to it as I find more interesting methods.
+
